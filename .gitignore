@@ -38,3 +38,6 @@ cmake_install.cmake
 profile.ijs
 install_manifest.txt
 patches
+/build
+/*.tar.xz*
+/pkg
