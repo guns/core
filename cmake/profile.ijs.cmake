@@ -14,7 +14,7 @@ tools=.   '${DATA_INSTALL_PREFIX}','/tools'
 home=.    >(systype-5){(2!:5'HOME');2!:5'USERPROFILE'
 
 userx=.   '\j',('64-'#~16={:$3!:3[2),'701-user'
-user=.    home,userx
+user=.    home,'/.config',userx
 break=.   user,'/break'
 snap=.    user,'/snap'
 temp=.    user,'/temp'

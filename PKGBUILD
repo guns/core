@@ -1,7 +1,7 @@
 # Maintainer: Sung Pae <self@sungpae.com>
 pkgname=openj
 pkgver=7.01.045
-pkgrel=1
+pkgrel=2
 pkgdesc="The J programming language"
 arch=('x86_64')
 url="http://www.jsoftware.com/"
